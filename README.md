@@ -13,6 +13,8 @@ An image consists of a collection of files (or layers) that pack together all th
 Each container is autonomous and runs in its own isolated environment, ensuring it does not disrupt other running applications or its underlying system. This greatly improves the security of applications.
 
 
+> A **Dockerfile** is a text document that contains all the commands a user could call on the command line to assemble an image. Using docker build users can create an automated build that executes several command-line instructions in succession.
+
 Follow 👉🏻 [this](https://docs.docker.com/engine/install/) guide to install docker engine locally in your system
 
 ---
