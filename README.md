@@ -76,6 +76,6 @@ CMD [ "python", "app.py" ]
 Now in your local browser visit:   **http://0.0.0.0:5000/students** 
 
 
-![Preview Image]( )
+![Preview Image](https://github.com/HarunMbaabu/Flask-and-Docker-Application-Domo/blob/main/src/Screenshot%202021-08-17%20at%2012.40.34.png?raw=true)
 
 
