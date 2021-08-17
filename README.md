@@ -2,11 +2,11 @@
 
 Lux Academy &amp; Data Science East Africa Python Boot Camp, Building and Deploying  Flask Application Using Docker Demo App.
 
-- A **Docker image** is a read-only, inert template that comes with instructions for deploying containers. In Docker, everything basically revolves around images.
+> A **Docker image** is a read-only, inert template that comes with instructions for deploying containers. In Docker, everything basically revolves around images.
 
 An image consists of a collection of files (or layers) that pack together all the necessities—such as dependencies, source code, and libraries—needed to set up a completely functional container environment.
 
-A **Docker container** is a virtualized runtime environment that provides isolation capabilities for separating the execution of applications from the underpinning system. It’s an instance of a Docker image.
+> A **Docker container** is a virtualized runtime environment that provides isolation capabilities for separating the execution of applications from the underpinning system. It’s an instance of a Docker image.
 
 **Containers** are the ultimate utility of the Docker technology—they provide a portable and lightweight environment for deploying applications.
 
