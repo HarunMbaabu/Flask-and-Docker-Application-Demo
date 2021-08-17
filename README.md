@@ -1,11 +1,13 @@
-# Flask and Docker Application Demo
+## **Flask and Docker Application Demo**
 
 Lux Academy &amp; Data Science East Africa Python Boot Camp, Building and Deploying  Flask Application Using Docker Demo App.
 
 Follow 👉🏻 [this](https://docs.docker.com/engine/install/) guide to install docker engine locally in your system
 
 ---
+
 **URL With Students  Record:** https://raw.githubusercontent.com/HarunMbaabu/Flask-and-Docker-Application-Domo/main/students.json  
+
 ---
 
 --- 
