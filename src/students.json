@@ -1,0 +1,35 @@
+[
+    {
+        "studentsId": "001",
+        "name": "Mary Njeri Njuguna",
+        "Country": "Kenya",
+        "GitHub": "https://github.com/Mary-softeng/"
+    },
+
+    {
+        "studentsId": "002",
+        "name": "ssenyonga yasin",
+        "Country": "Uganda",
+        "GitHub": "https://github.com/yasinmillers/"
+    },
+
+    {
+        "studentsId": "003",
+        "name": "Nalubega Priscillah",
+        "Country": "Uganda",
+        "GitHub": "https://github.com/priscillahnalubega/"
+    },
+
+    {
+        "studentsId": "004",
+        "name": "Martin N. Thuo",
+        "Country": "Uganda",
+        "GitHub": "https://github.com/mertoenjosh/" 
+    },
+    {
+        "studentsId": "005",
+        "name": "Chris Murimi",
+        "Country": "Kenya",
+        "GitHub": "https://github.com/chrisMurimi" 
+    }
+]
