@@ -15,6 +15,8 @@ Each container is autonomous and runs in its own isolated environment, ensuring 
 
 > A **Dockerfile** is a text document that contains all the commands a user could call on the command line to assemble an image. Using docker build users can create an automated build that executes several command-line instructions in succession.
 
+>> Docker images are read-only templates used to build containers. Containers are deployed instances created from those templates. Images and containers are closely related, and are essential in powering the Docker software platform.
+
 Follow 👉🏻 [this](https://docs.docker.com/engine/install/) guide to install docker engine locally in your system
 
 ---
