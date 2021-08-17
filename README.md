@@ -1,7 +1,5 @@
 ## **Flask and Docker Application Demo**
 
-Lux Academy &amp; Data Science East Africa Python Boot Camp, Building and Deploying  Flask Application Using Docker Demo App.
-
 > A **Docker image** is a read-only, inert template that comes with instructions for deploying containers. In Docker, everything basically revolves around images.
 
 An image consists of a collection of files (or layers) that pack together all the necessities—such as dependencies, source code, and libraries—needed to set up a completely functional container environment.
